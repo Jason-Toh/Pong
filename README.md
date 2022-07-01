@@ -18,6 +18,6 @@ The opponent can deflect the ball by knocking it back.
 
 ## Instructions
 
-⬆️ to move the padde up
+W or ⬆️ to move the padde up
 
-⬇️ to move the paddle down
+S or ⬇️ to move the paddle down
